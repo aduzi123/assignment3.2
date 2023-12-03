@@ -1,5 +1,5 @@
 p:hover {
-  color: blue;
+  color: green;
   font-weight: bold;
 ]
 
@@ -11,11 +11,11 @@ p::before {
 
 p::after {
   content: ' Bye!':
-  color: orange:
+  color: yellow:
   font-weight: bold;
 }
 
 p::selection {
-  background-color: pink;
-  color: white;
+  background-color: red;
+  color: yellow;
 }
